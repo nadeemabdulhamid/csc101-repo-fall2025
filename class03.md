@@ -61,7 +61,7 @@
 
 ## Assignments
 
-- Complete LinkedIn Learning: [Linux Command Line (intro, part 1+2+3)](https://www.linkedin.com/learning/learning-linux-command-line-14447912) [1hr 49m]
+- LinkedIn Learning: [Linux Command Line (intro, part 1+2+3)](https://www.linkedin.com/learning/learning-linux-command-line-14447912) [1hr 49m]
 
 - [WTQ] [Write the Question - Linux/CLI](linux-ques.md)
 

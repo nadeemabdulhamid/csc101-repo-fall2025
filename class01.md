@@ -35,7 +35,7 @@
 
 ## Assignment
 
-- Email me your Github username
+- Post your Github username (along with your real name, so I know who is who) on the course Discord channel
 
 - [Typing](https://typing.com) 
 
