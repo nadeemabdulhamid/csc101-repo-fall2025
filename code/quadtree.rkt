@@ -253,7 +253,7 @@ P1
 P2-pict
 P2-hash
 
-
+; (send (pict->bitmap P2-pict) save-file "qdt-tree.png" 'png)
 
 
 #| ================= |#

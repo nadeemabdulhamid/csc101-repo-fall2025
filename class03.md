@@ -80,3 +80,5 @@
 - [Boolean Game](https://boolean.method.ac/) - random fun - image editing tools
 
 - [MiniSat in your browser](https://www.msoos.org/2013/09/minisat-in-your-browser/) (another tool)
+
+- [Fast Analysis of the OpenAI O1-Preview Model in Solving Random K-SAT Problem: Does the LLM Solve the Problem Itself or Call an External SAT Solver?](https://arxiv.org/html/2409.11232v2)
